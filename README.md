@@ -29,4 +29,4 @@ The Weather Info API provides weather information for a specific location based 
 **Sample Request:**
 
 ```http
-GET http://localhost:9999/getAllinfo/400075
+GET http://localhost:2411/getAllinfo/400075
